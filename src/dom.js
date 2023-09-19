@@ -1,2 +1,6 @@
-const dom = {};
-export default dom;
+
+
+const dom = {
+    root: document.getElementById('root'),
+    
+};
